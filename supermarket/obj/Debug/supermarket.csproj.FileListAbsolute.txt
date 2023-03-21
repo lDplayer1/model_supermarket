@@ -1,0 +1,11 @@
+C:\Users\player1\Desktop\supermarket\supermarket\obj\Debug\supermarket.csproj.AssemblyReference.cache
+C:\Users\player1\Desktop\supermarket\supermarket\obj\Debug\supermarket.Form1.resources
+C:\Users\player1\Desktop\supermarket\supermarket\obj\Debug\supermarket.Properties.Resources.resources
+C:\Users\player1\Desktop\supermarket\supermarket\obj\Debug\supermarket.csproj.GenerateResource.cache
+C:\Users\player1\Desktop\supermarket\supermarket\obj\Debug\supermarket.csproj.CoreCompileInputs.cache
+C:\Users\player1\Desktop\supermarket\supermarket\bin\Debug\supermarket.exe.config
+C:\Users\player1\Desktop\supermarket\supermarket\bin\Debug\supermarket.exe
+C:\Users\player1\Desktop\supermarket\supermarket\bin\Debug\supermarket.pdb
+C:\Users\player1\Desktop\supermarket\supermarket\obj\Debug\supermarket.exe
+C:\Users\player1\Desktop\supermarket\supermarket\obj\Debug\supermarket.pdb
+C:\Users\player1\Desktop\supermarket\supermarket\obj\Debug\supermarket.working.resources
